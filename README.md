@@ -1,6 +1,6 @@
 ### Fine-tuned version RobBERT Dutch book reviews
 
-In this repository you will fine the code used to fine tune RobBERT by Pieter Delobelle et al. on Dutch book reviews for my thesis on auditing algorithms.
+In this repository you will find the code used to fine tune RobBERT by Pieter Delobelle et al. on Dutch book reviews for my thesis on auditing algorithms.
 
 The code to train the model can be found in `RobBERT-finetuned > finetune_dbrd.ipynb`.
 The data used to train the model can be found in the data map. 
